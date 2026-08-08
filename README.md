@@ -13,7 +13,7 @@
 | --- | --- |
 | 개발 기간 | 2026.04 ~ 2026.06 |
 | 개발 형태 | 개인 프로젝트 |
-| 플랫폼 | Android 7.0(API 24) 이상 |
+| 플랫폼 | Android 7.0(API 24) 이상 · 세로 화면(스마트폰 기준) |
 | 언어 | Kotlin |
 | 렌더링 | Android Canvas 기반 커스텀 2D 렌더링 |
 | 프레임워크 | `SceneStack`, `World`, `SoundPool`, `MediaPlayer`, `SharedPreferences` |
