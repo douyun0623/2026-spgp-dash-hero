@@ -14,5 +14,11 @@
 .externalNativeBuild
 .cxx
 local.properties
-.memoc/.pending
-.memoc/local/
+
+# Local AI/agent workspace
+/.memoc/
+/.claude/
+/AGENTS.md
+/CLAUDE.md
+/llms.txt
+/skills/project-memory-maintainer/
